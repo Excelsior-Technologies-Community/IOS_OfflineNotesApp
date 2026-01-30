@@ -135,7 +135,7 @@ SyncNotes/
 #### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/offline-notes-app.git
+https://github.com/Excelsior-Technologies-Community/IOS_OfflineNotesApp
 cd offline-notes-app
 ```
 
