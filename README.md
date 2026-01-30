@@ -120,33 +120,7 @@ SyncNotes/
 ```
 
 ---
-
-## 🔧 Installation
-
-### Requirements
-- iOS 15.0+
-- Xcode 14.0+
-- Swift 5.9+
-
-### Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/offline-notes-app.git
-   cd offline-notes-app
-   ```
-
-2. **Open in Xcode**
-   ```bash
-   open SyncNotes.xcodeproj
-   ```
-
-3. **Build and Run**
-   - Select your target device or simulator
-   - Press `Cmd + R` to build and run
-
----
-
+ 
 ## 🚀 Usage
 
 ### Creating Notes Offline
